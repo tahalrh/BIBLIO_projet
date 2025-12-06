@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Biblio_DOTNET\bin\Debug\net8.0\Biblio_DOTNET.exe
+C:\Users\HP\source\repos\Biblio_DOTNET\bin\Debug\net8.0\Biblio_DOTNET.deps.json
+C:\Users\HP\source\repos\Biblio_DOTNET\bin\Debug\net8.0\Biblio_DOTNET.runtimeconfig.json
+C:\Users\HP\source\repos\Biblio_DOTNET\bin\Debug\net8.0\Biblio_DOTNET.dll
+C:\Users\HP\source\repos\Biblio_DOTNET\bin\Debug\net8.0\Biblio_DOTNET.pdb
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.AssemblyInfo.cs
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.dll
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\refint\Biblio_DOTNET.dll
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.pdb
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\Biblio_DOTNET.genruntimeconfig.cache
+C:\Users\HP\source\repos\Biblio_DOTNET\obj\Debug\net8.0\ref\Biblio_DOTNET.dll

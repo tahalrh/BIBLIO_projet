@@ -1,0 +1,2 @@
+[Log 06-Dec-25 9:17:51 PM] : Démarrage de l'application
+[Log 06-Dec-25 9:17:51 PM] : Une opération a été effectuée

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Biblio_DOTNET/1.0.0": {
+        "runtime": {
+          "Biblio_DOTNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblio_DOTNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
