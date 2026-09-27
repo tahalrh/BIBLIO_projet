@@ -1,0 +1,30 @@
+name: Build & Test .NET Application
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    name: Build & Test (.NET 8.0)
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore Biblio_DOTNET.sln
+
+    - name: Build Solution
+      run: dotnet build Biblio_DOTNET.sln --no-restore --configuration Release
+
+    - name: Run Unit Tests
+      run: dotnet test Biblio_DOTNET.sln --no-build --configuration Release --verbosity normal --collect:"XPlat Code Coverage"

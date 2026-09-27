@@ -1,0 +1,40 @@
+## Visual Studio / Build artifacts
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio Cache & User files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+## Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+## Environment files
+.env
+.env.local
+
+## Backup files & Data persistence
+*.bak
+bibliotheque_data.txt
+*.DotSettings.user
+
+## OS specific
+.DS_Store
+Thumbs.db
+
+powershell.cmd
+

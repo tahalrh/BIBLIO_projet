@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  biblio-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: biblio-dotnet-app
+    stdin_open: true
+    tty: true
+    environment:
+      - DATA_FILE_PATH=/app/data/bibliotheque_data.txt
+      - DOTNET_ENVIRONMENT=Production
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
